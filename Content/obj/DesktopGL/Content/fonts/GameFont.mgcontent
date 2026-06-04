@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>/Users/arkadiy/Documents/PhaseShift/Content/fonts/GameFont.spritefont</SourceFile>
+  <SourceTime>2026-04-17T13:33:14.3793743+05:00</SourceTime>
+  <DestFile>/Users/arkadiy/Documents/PhaseShift/Content/bin/DesktopGL/Content/fonts/GameFont.xnb</DestFile>
+  <DestTime>2026-04-24T15:03:58.5847055+05:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2025-10-20T19:25:32+05:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2025-10-20T19:25:32+05:00</ProcessorTime>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

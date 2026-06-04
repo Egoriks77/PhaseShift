@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"/Users/arkadiy/Documents/PhaseShift/Content/fonts/GameFont.spritefont","/Users/arkadiy/Documents/PhaseShift/Content/bin/DesktopGL/Content/fonts/GameFont.xnb","FontDescriptionProcessor","SpriteFontContent",473,136217,0.12288
+"/Users/arkadiy/Documents/PhaseShift/Content/music/action_02.ogg","/Users/arkadiy/Documents/PhaseShift/Content/bin/DesktopGL/Content/music/action_02.xnb","SongProcessor","SongContent",1912088,127,5.41412

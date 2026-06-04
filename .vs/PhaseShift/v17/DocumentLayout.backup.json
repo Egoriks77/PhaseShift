@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Egor\\Downloads\\PhaseShift\\PhaseShift\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1ACAEFD9-5EDE-00D0-5BDD-2F7D256AE9B4}|PhaseShift.csproj|c:\\users\\egor\\downloads\\phaseshift\\phaseshift\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ACAEFD9-5EDE-00D0-5BDD-2F7D256AE9B4}|PhaseShift.csproj|solutionrelative:game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ACAEFD9-5EDE-00D0-5BDD-2F7D256AE9B4}|PhaseShift.csproj|c:\\users\\egor\\downloads\\phaseshift\\phaseshift\\screens\\menuscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ACAEFD9-5EDE-00D0-5BDD-2F7D256AE9B4}|PhaseShift.csproj|solutionrelative:screens\\menuscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ACAEFD9-5EDE-00D0-5BDD-2F7D256AE9B4}|PhaseShift.csproj|c:\\users\\egor\\downloads\\phaseshift\\phaseshift\\entities\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ACAEFD9-5EDE-00D0-5BDD-2F7D256AE9B4}|PhaseShift.csproj|solutionrelative:entities\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ACAEFD9-5EDE-00D0-5BDD-2F7D256AE9B4}|PhaseShift.csproj|c:\\users\\egor\\downloads\\phaseshift\\phaseshift\\entities\\platform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ACAEFD9-5EDE-00D0-5BDD-2F7D256AE9B4}|PhaseShift.csproj|solutionrelative:entities\\platform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ACAEFD9-5EDE-00D0-5BDD-2F7D256AE9B4}|PhaseShift.csproj|c:\\users\\egor\\downloads\\phaseshift\\phaseshift\\entities\\phasewall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ACAEFD9-5EDE-00D0-5BDD-2F7D256AE9B4}|PhaseShift.csproj|solutionrelative:entities\\phasewall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ACAEFD9-5EDE-00D0-5BDD-2F7D256AE9B4}|PhaseShift.csproj|c:\\users\\egor\\downloads\\phaseshift\\phaseshift\\entities\\levelexit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ACAEFD9-5EDE-00D0-5BDD-2F7D256AE9B4}|PhaseShift.csproj|solutionrelative:entities\\levelexit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ACAEFD9-5EDE-00D0-5BDD-2F7D256AE9B4}|PhaseShift.csproj|c:\\users\\egor\\downloads\\phaseshift\\phaseshift\\entities\\phasestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ACAEFD9-5EDE-00D0-5BDD-2F7D256AE9B4}|PhaseShift.csproj|solutionrelative:entities\\phasestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ACAEFD9-5EDE-00D0-5BDD-2F7D256AE9B4}|PhaseShift.csproj|c:\\users\\egor\\downloads\\phaseshift\\phaseshift\\screens\\levelselectscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ACAEFD9-5EDE-00D0-5BDD-2F7D256AE9B4}|PhaseShift.csproj|solutionrelative:screens\\levelselectscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ACAEFD9-5EDE-00D0-5BDD-2F7D256AE9B4}|PhaseShift.csproj|c:\\users\\egor\\downloads\\phaseshift\\phaseshift\\content\\fonts\\gamefont.spritefont||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1ACAEFD9-5EDE-00D0-5BDD-2F7D256AE9B4}|PhaseShift.csproj|solutionrelative:content\\fonts\\gamefont.spritefont||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ACAEFD9-5EDE-00D0-5BDD-2F7D256AE9B4}|PhaseShift.csproj|c:\\users\\egor\\downloads\\phaseshift\\phaseshift\\screens\\gamescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ACAEFD9-5EDE-00D0-5BDD-2F7D256AE9B4}|PhaseShift.csproj|solutionrelative:screens\\gamescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MenuScreen.cs",
+              "DocumentMoniker": "C:\\Users\\Egor\\Downloads\\PhaseShift\\PhaseShift\\Screens\\MenuScreen.cs",
+              "RelativeDocumentMoniker": "Screens\\MenuScreen.cs",
+              "ToolTip": "C:\\Users\\Egor\\Downloads\\PhaseShift\\PhaseShift\\Screens\\MenuScreen.cs",
+              "RelativeToolTip": "Screens\\MenuScreen.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAgwD8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T17:16:52.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Platform.cs",
+              "DocumentMoniker": "C:\\Users\\Egor\\Downloads\\PhaseShift\\PhaseShift\\Entities\\Platform.cs",
+              "RelativeDocumentMoniker": "Entities\\Platform.cs",
+              "ToolTip": "C:\\Users\\Egor\\Downloads\\PhaseShift\\PhaseShift\\Entities\\Platform.cs",
+              "RelativeToolTip": "Entities\\Platform.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T16:41:03.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PhaseWall.cs",
+              "DocumentMoniker": "C:\\Users\\Egor\\Downloads\\PhaseShift\\PhaseShift\\Entities\\PhaseWall.cs",
+              "RelativeDocumentMoniker": "Entities\\PhaseWall.cs",
+              "ToolTip": "C:\\Users\\Egor\\Downloads\\PhaseShift\\PhaseShift\\Entities\\PhaseWall.cs",
+              "RelativeToolTip": "Entities\\PhaseWall.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T16:40:56.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LevelExit.cs",
+              "DocumentMoniker": "C:\\Users\\Egor\\Downloads\\PhaseShift\\PhaseShift\\Entities\\LevelExit.cs",
+              "RelativeDocumentMoniker": "Entities\\LevelExit.cs",
+              "ToolTip": "C:\\Users\\Egor\\Downloads\\PhaseShift\\PhaseShift\\Entities\\LevelExit.cs",
+              "RelativeToolTip": "Entities\\LevelExit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T16:40:46.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game1.cs",
+              "DocumentMoniker": "C:\\Users\\Egor\\Downloads\\PhaseShift\\PhaseShift\\Game1.cs",
+              "RelativeDocumentMoniker": "Game1.cs",
+              "ToolTip": "C:\\Users\\Egor\\Downloads\\PhaseShift\\PhaseShift\\Game1.cs*",
+              "RelativeToolTip": "Game1.cs*",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T16:38:49.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PhaseState.cs",
+              "DocumentMoniker": "C:\\Users\\Egor\\Downloads\\PhaseShift\\PhaseShift\\Entities\\PhaseState.cs",
+              "RelativeDocumentMoniker": "Entities\\PhaseState.cs",
+              "ToolTip": "C:\\Users\\Egor\\Downloads\\PhaseShift\\PhaseShift\\Entities\\PhaseState.cs",
+              "RelativeToolTip": "Entities\\PhaseState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T16:38:15.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Egor\\Downloads\\PhaseShift\\PhaseShift\\Entities\\Player.cs",
+              "RelativeDocumentMoniker": "Entities\\Player.cs",
+              "ToolTip": "C:\\Users\\Egor\\Downloads\\PhaseShift\\PhaseShift\\Entities\\Player.cs",
+              "RelativeToolTip": "Entities\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T16:37:07.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LevelSelectScreen.cs",
+              "DocumentMoniker": "C:\\Users\\Egor\\Downloads\\PhaseShift\\PhaseShift\\Screens\\LevelSelectScreen.cs",
+              "RelativeDocumentMoniker": "Screens\\LevelSelectScreen.cs",
+              "ToolTip": "C:\\Users\\Egor\\Downloads\\PhaseShift\\PhaseShift\\Screens\\LevelSelectScreen.cs",
+              "RelativeToolTip": "Screens\\LevelSelectScreen.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAQwB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T16:36:04.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameFont.spritefont",
+              "DocumentMoniker": "C:\\Users\\Egor\\Downloads\\PhaseShift\\PhaseShift\\Content\\fonts\\GameFont.spritefont",
+              "RelativeDocumentMoniker": "Content\\fonts\\GameFont.spritefont",
+              "ToolTip": "C:\\Users\\Egor\\Downloads\\PhaseShift\\PhaseShift\\Content\\fonts\\GameFont.spritefont",
+              "RelativeToolTip": "Content\\fonts\\GameFont.spritefont",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-04T16:34:48.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GameScreen.cs",
+              "DocumentMoniker": "C:\\Users\\Egor\\Downloads\\PhaseShift\\PhaseShift\\Screens\\GameScreen.cs",
+              "RelativeDocumentMoniker": "Screens\\GameScreen.cs",
+              "ToolTip": "C:\\Users\\Egor\\Downloads\\PhaseShift\\PhaseShift\\Screens\\GameScreen.cs",
+              "RelativeToolTip": "Screens\\GameScreen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T16:34:33.63Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
